@@ -30,7 +30,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-offset-4 col-md-4 text-center">
-            <h1 class='text-white'>FORM LOGIN</h1>
+            <h1 class='text-white'>FORM LOGIN COBA EDIT</h1>
               <div class="form-login"></br>
                 <h4>Secure Login</h4>
                 </br>
