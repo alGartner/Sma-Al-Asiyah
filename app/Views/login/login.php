@@ -13,7 +13,7 @@
     <meta name="keywords"
           content="unique login form,leamug login form,boostrap login form,responsive login form,free css html login form,download login form">
     <meta name="author" content="leamug">
-    <title>Unique Login Form | Bootstrap Templates</title>
+    <title>Login Form | SMA AL-ASIYAH</title>
     <link href="css/style.css" rel="stylesheet" id="style">
     <!-- Bootstrap core Library -->
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
@@ -29,10 +29,10 @@
 <!-- Page Content -->
 <div class="container">
     <div class="row">
-        <div class="col-md-offset-4 col-md-4 text-center">
-            <h1 class='text-white'>FORM LOGIN COBA EDIT</h1>
+        <div class="col-md-offset-4 col-md-4 text-center" style ="margin-top :100px">
+            <h1 class='text-white' style="margin-top : 26px"></h1>
               <div class="form-login"></br>
-                <h4>Secure Login</h4>
+                <h4>FORM LOGIN</h4>
                 </br>
                 <input type="text" id="userName" class="form-control input-sm chat-input" placeholder="username"/>
                 </br></br>
@@ -49,7 +49,7 @@
     </br></br></br>
     <!--footer-->
     <div class="footer text-white text-center">
-        <p>© 2020 Unique Login Form. All rights reserved | Design by <a href="https://freecss.tech">Free Css</a></p>
+        <p style="color : black">© 2020 Unique Login Form. All rights reserved | Design by <a href="https://freecss.tech">Free Css</a></p>
     </div>
     <!--//footer-->
 </div>
