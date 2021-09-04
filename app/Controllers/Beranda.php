@@ -6,7 +6,10 @@ class Beranda extends BaseController
 {
 	public function index()
 	{
-		return view('beranda/beranda');
-	
+		$data  = [
+            'title' => 'Beranda | SMA AL-ASIYAH'
+        ];
+
+		return view('beranda/beranda', $data);
 	}
 }
